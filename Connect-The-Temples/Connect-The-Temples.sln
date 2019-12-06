@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Connect-The-Temples", "Connect-The-Temples\Connect-The-Temples.vcxproj", "{92BD5131-D144-4474-9977-46A952CEB619}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92BD5131-D144-4474-9977-46A952CEB619}.Debug|x64.ActiveCfg = Debug|x64
+		{92BD5131-D144-4474-9977-46A952CEB619}.Debug|x64.Build.0 = Debug|x64
+		{92BD5131-D144-4474-9977-46A952CEB619}.Debug|x86.ActiveCfg = Debug|Win32
+		{92BD5131-D144-4474-9977-46A952CEB619}.Debug|x86.Build.0 = Debug|Win32
+		{92BD5131-D144-4474-9977-46A952CEB619}.Release|x64.ActiveCfg = Release|x64
+		{92BD5131-D144-4474-9977-46A952CEB619}.Release|x64.Build.0 = Release|x64
+		{92BD5131-D144-4474-9977-46A952CEB619}.Release|x86.ActiveCfg = Release|Win32
+		{92BD5131-D144-4474-9977-46A952CEB619}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9ED3998-D92C-4C2E-B762-332078FA0D3B}
+	EndGlobalSection
+EndGlobal
