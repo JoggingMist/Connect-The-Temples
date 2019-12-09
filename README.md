@@ -1,2 +1,2 @@
-# Connect-The-Temples
-Proiect IP - Stanciu Valentin - Panaitescu Adrian Valentin
+# Temple Connection
+Proiect IP - Stanciu Valentin - Panaintescu Adrian Valentin
